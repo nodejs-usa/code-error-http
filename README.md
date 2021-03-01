@@ -5,3 +5,6 @@
 - Redirecciones (300–399),
 - Errores de los clientes (400–499),
 - y errores de los servidores (500–599).
+
+
+https://developer.mozilla.org/es/docs/Web/HTTP/Status
